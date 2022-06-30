@@ -1,0 +1,11 @@
+4A	De3421	Data Structure	 
+4B	De3421	Data Structure	 
+4C	De3421	Data Structure	 
+4D	De3421	Data Structure	 
+6A      Cs3421	Computer Networks
+6A      Cs3421	Computer Networks
+6B      Cs3421	Computer Networks
+6C      Cs3421	Computer Networks 
+5A       TR5473	TOA
+5B       TR5473	TOA
+5C       TR5473	TOA	

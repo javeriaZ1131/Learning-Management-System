@@ -1,0 +1,6 @@
+Roll No: l19-2276	Student Name 	Javeria Zulfiqar	
+
+section	 Cid	course	             Grade	GPA
+6B	s3421	Computer networks	I        0
+4B	De3421	DataStructure           I        0
+  

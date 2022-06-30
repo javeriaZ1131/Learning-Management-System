@@ -1,0 +1,3 @@
+Cs3421	Computer Networks
+E4352	Data Structures
+TR5473	TOA	
