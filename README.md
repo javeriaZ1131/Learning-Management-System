@@ -2,8 +2,8 @@
 A C++ implementation of the designing of simple learning Management System using the concepts of SOLID principles &amp; Design patterns concept.
 The system provides implementation of the following use cases:
 
-1) Academic officer can add/remove/update information of a new course into the system
-2) He can add information of a new section into the system
+1) Academic officer can add/remove/update information of a new course into the system stored the working in LMSDATA.txt
+2) He can add information of a new section into the system stored in "SectionDetails.txt"
 3) A student may register a new course stored in "rollno.txt"
 4) She may view her transcript (containing her CGPA) saved in file named "Rollnotranscript.txt"
 5) A teacher may set evaluation criteria for a course (number and types of evaluations along with weights) named "sectionname + EC.txt"
